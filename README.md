@@ -1,2 +1,1 @@
-# hello-world
-first repository
+This is a Travel Management System where a passenger can book his/her bus ticket. 
